@@ -3,3 +3,7 @@ pub mod dispatch;
 pub mod func;
 pub mod pin;
 pub mod flat;
+pub mod cell;
+pub mod strtok;
+pub mod atomics;
+pub mod channel;
