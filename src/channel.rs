@@ -1,7 +1,6 @@
 use std::sync::{Arc,Mutex, Condvar};
 use std::collections::VecDeque;
 
-//29:04
 
 pub struct Sender<T>{
     shared: Arc<Shared<T>>

@@ -7,3 +7,4 @@ pub mod cell;
 pub mod strtok;
 pub mod atomics;
 pub mod channel;
+pub mod tokio;
